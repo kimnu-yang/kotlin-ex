@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdecb61-ecd5-43c2-9653-2a0a7df7fd9d" name="Changes" comment="add elvis operator example">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex03/Exam03.kt" afterDir="false" />
+    <list default="true" id="3fdecb61-ecd5-43c2-9653-2a0a7df7fd9d" name="Changes" comment="add mutable/immutable collection example">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex04_high_order_function/Exam04.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -33,6 +33,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -40,7 +41,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="01-variable-declaration" />
+        <entry key="$PROJECT_DIR$" value="03-mutable-immutable-collection" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,27 +58,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;02-elvis-operator&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/java-example&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "04-high-order-function",
+    "last_opened_file_path": "D:/Project/java-example",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Kotlin.Exam02Kt">
     <configuration name="Exam01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.Exam01Kt" />
+      <option name="MAIN_CLASS_NAME" value="ex01_variable_declaration.Exam01Kt" />
       <module name="kotlin-example.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Exam02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02.Exam02Kt" />
+      <option name="MAIN_CLASS_NAME" value="ex02_elvis_operator.Exam02Kt" />
       <module name="kotlin-example.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -131,7 +132,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702540841860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mutable/immutable collection example">
+      <option name="closed" value="true" />
+      <created>1702618444619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702618444619</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -149,6 +158,7 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add variable declaration example" />
     <MESSAGE value="add elvis operator example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add elvis operator example" />
+    <MESSAGE value="add mutable/immutable collection example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add mutable/immutable collection example" />
   </component>
 </project>
