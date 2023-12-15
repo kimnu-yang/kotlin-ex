@@ -1,6 +1,4 @@
-package ex02
-
-import java.util.*
+package ex02_elvis_operator
 
 fun main(){
 
