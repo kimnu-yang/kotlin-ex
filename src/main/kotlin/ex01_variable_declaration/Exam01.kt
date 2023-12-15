@@ -1,4 +1,4 @@
-package ex01
+package ex01_variable_declaration
 
 fun main() {
 
