@@ -4,9 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fdecb61-ecd5-43c2-9653-2a0a7df7fd9d" name="Changes" comment="add elvis operator example">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex03/Exam03.kt" afterDir="false" />
+    <list default="true" id="3fdecb61-ecd5-43c2-9653-2a0a7df7fd9d" name="Changes" comment="add map/hashmap example">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex05_high_order_function/Exam05.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex01_variable_declaration/Exam01.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex01_variable_declaration/Exam01.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex02_elvis_operator/Exam02.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex02_elvis_operator/Exam02.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex03_mutable_immutable_collection/Exam03.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex03_mutable_immutable_collection/Exam03.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/ex04_map_hashmap/Exam04.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/ex04_map_hashmap/Exam04.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +39,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Class" />
         <option value="Kotlin Class" />
       </list>
     </option>
@@ -40,7 +47,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="01-variable-declaration" />
+        <entry key="$PROJECT_DIR$" value="04-map-hashmap" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,27 +64,54 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;02-elvis-operator&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Project/java-example&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "05-high-order-function",
+    "last_opened_file_path": "D:/Project/kotlin-example/src/main/kotlin/ex04_map_hashmap",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "vcs.Git",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Kotlin.Exam02Kt">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Project\kotlin-example\src\main\kotlin\ex04_map_hashmap" />
+      <recent name="D:\Project\kotlin-example\src\main\kotlin\ex05_high_order_function" />
+      <recent name="D:\Project\kotlin-example\src\main\kotlin" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Kotlin.Exam05Kt">
     <configuration name="Exam01Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex01.Exam01Kt" />
+      <option name="MAIN_CLASS_NAME" value="ex01_variable_declaration.Exam01Kt" />
       <module name="kotlin-example.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <configuration name="Exam02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ex02.Exam02Kt" />
+      <option name="MAIN_CLASS_NAME" value="ex02_elvis_operator.Exam02Kt" />
+      <module name="kotlin-example.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex04_map_hashmap.Exam04Kt" />
+      <module name="kotlin-example.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exam05Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ex05_high_order_function.Exam05Kt" />
       <module name="kotlin-example.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,9 +126,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.Exam05Kt" />
+        <item itemvalue="Kotlin.Exam04Kt" />
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.Exam02Kt" />
         <item itemvalue="Kotlin.Exam01Kt" />
-        <item itemvalue="Kotlin.MainKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,6 +142,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1702536811734</updated>
+      <workItem from="1702619717125" duration="2172000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -131,8 +168,27 @@
       <option name="project" value="LOCAL" />
       <updated>1702540841860</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add mutable/immutable collection example">
+      <option name="closed" value="true" />
+      <created>1702618444619</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1702618444619</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add map/hashmap example">
+      <option name="closed" value="true" />
+      <created>1702619262425</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1702619262425</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -149,6 +205,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="add variable declaration example" />
     <MESSAGE value="add elvis operator example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add elvis operator example" />
+    <MESSAGE value="add mutable/immutable collection example" />
+    <MESSAGE value="add map/hashmap example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add map/hashmap example" />
   </component>
 </project>
