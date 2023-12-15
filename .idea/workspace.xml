@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3fdecb61-ecd5-43c2-9653-2a0a7df7fd9d" name="Changes" comment="add class example">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex07_data_class/Exam07.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex07_data_class/User.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/ex14_run_function/Exam14.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,7 +40,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="06-class" />
+        <entry key="$PROJECT_DIR$" value="13-apply-function" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -66,7 +64,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "07-data-class",
+    "git-widget-placeholder": "14-run-function",
     "last_opened_file_path": "D:/Project/kotlin-example/src/main/kotlin/ex04_map_hashmap",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -195,7 +193,15 @@
       <option name="project" value="LOCAL" />
       <updated>1702623699330</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add apply function example">
+      <option name="closed" value="true" />
+      <created>1702633673218</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1702633673218</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -220,6 +226,7 @@
     <MESSAGE value="add map/hashmap example" />
     <MESSAGE value="add high order function example" />
     <MESSAGE value="add class example" />
-    <option name="LAST_COMMIT_MESSAGE" value="add class example" />
+    <MESSAGE value="add apply function example" />
+    <option name="LAST_COMMIT_MESSAGE" value="add apply function example" />
   </component>
 </project>
